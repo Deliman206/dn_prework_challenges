@@ -1,0 +1,7 @@
+\\Mac\Home\codefellows\dn401\dn_prework_challenges\prework_challenges\prework_challenges\bin\Debug\prework_challenges.exe.config
+\\Mac\Home\codefellows\dn401\dn_prework_challenges\prework_challenges\prework_challenges\bin\Debug\prework_challenges.exe
+\\Mac\Home\codefellows\dn401\dn_prework_challenges\prework_challenges\prework_challenges\bin\Debug\prework_challenges.pdb
+\\Mac\Home\codefellows\dn401\dn_prework_challenges\prework_challenges\prework_challenges\obj\Debug\prework_challenges.csprojAssemblyReference.cache
+\\Mac\Home\codefellows\dn401\dn_prework_challenges\prework_challenges\prework_challenges\obj\Debug\prework_challenges.csproj.CoreCompileInputs.cache
+\\Mac\Home\codefellows\dn401\dn_prework_challenges\prework_challenges\prework_challenges\obj\Debug\prework_challenges.exe
+\\Mac\Home\codefellows\dn401\dn_prework_challenges\prework_challenges\prework_challenges\obj\Debug\prework_challenges.pdb
